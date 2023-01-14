@@ -92,9 +92,9 @@ body{
         border-radius: 0%;
         transform: rotate(100deg);
         background-color: green;
+        
     }
 }
-
 .content2{
     flex-basis: 50%;
     position: absolute;
